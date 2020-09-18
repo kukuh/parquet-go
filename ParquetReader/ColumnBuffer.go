@@ -3,12 +3,12 @@ package ParquetReader
 import (
 	"fmt"
 
-	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/Layout"
-	"github.com/xitongsys/parquet-go/ParquetFile"
-	"github.com/xitongsys/parquet-go/SchemaHandler"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/kukuh/thrift/lib/go/thrift"
+	"github.com/kukuh/parquet-go/Common"
+	"github.com/kukuh/parquet-go/Layout"
+	"github.com/kukuh/parquet-go/ParquetFile"
+	"github.com/kukuh/parquet-go/SchemaHandler"
+	"github.com/kukuh/parquet-go/parquet"
 )
 
 type ColumnBufferType struct {
