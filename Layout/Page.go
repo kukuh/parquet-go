@@ -7,12 +7,12 @@ import (
 	"strings"
 
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/Compress"
-	"github.com/xitongsys/parquet-go/ParquetEncoding"
-	"github.com/xitongsys/parquet-go/ParquetType"
-	"github.com/xitongsys/parquet-go/SchemaHandler"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/kukuh/parquet-go/Common"
+	"github.com/kukuh/parquet-go/Compress"
+	"github.com/kukuh/parquet-go/ParquetEncoding"
+	"github.com/kukuh/parquet-go/ParquetType"
+	"github.com/kukuh/parquet-go/SchemaHandler"
+	"github.com/kukuh/parquet-go/parquet"
 )
 
 //Page is used to store the page data
