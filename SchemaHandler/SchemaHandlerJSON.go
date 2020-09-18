@@ -3,8 +3,8 @@ package SchemaHandler
 import (
 	"encoding/json"
 
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/kukuh/parquet-go/Common"
+	"github.com/kukuh/parquet-go/parquet"
 )
 
 type JSONSchemaItemType struct {
