@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/kukuhs/parquet-go/ParquetType"
+	. "github.com/kukuh/parquet-go/ParquetType"
 )
 
 func TestMergeTable(t *testing.T) {
