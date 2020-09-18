@@ -3,11 +3,11 @@ package Marshal
 import (
 	"reflect"
 
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/Layout"
-	"github.com/xitongsys/parquet-go/ParquetType"
-	"github.com/xitongsys/parquet-go/SchemaHandler"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/kukuh/parquet-go/Common"
+	"github.com/kukuh/parquet-go/Layout"
+	"github.com/kukuh/parquet-go/ParquetType"
+	"github.com/kukuh/parquet-go/SchemaHandler"
+	"github.com/kukuh/parquet-go/parquet"
 )
 
 type Node struct {
