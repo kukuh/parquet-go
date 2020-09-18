@@ -3,7 +3,7 @@ package Layout
 import (
 	"reflect"
 
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/kukuh/thrift/lib/go/thrift"
 	"github.com/kukuh/parquet-go/Common"
 	"github.com/kukuh/parquet-go/Compress"
 	"github.com/kukuh/parquet-go/ParquetEncoding"
