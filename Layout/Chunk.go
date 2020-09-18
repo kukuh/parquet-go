@@ -1,7 +1,7 @@
 package Layout
 
 import (
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/kukuh/thrift/lib/go/thrift"
 	"github.com/kukuh/parquet-go/Common"
 	"github.com/kukuh/parquet-go/ParquetEncoding"
 	"github.com/kukuh/parquet-go/ParquetType"
